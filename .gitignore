@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+url shortner api using postgresql
+shorten url
+and redirect and give response using shorten url (if url is not running/up redirect url doesnt work make sure you entered is valid up and running url)
